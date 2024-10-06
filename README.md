@@ -1,4 +1,4 @@
-# Coffee Machine
+# Coffee Machine Simulator 
 
 This is a Coffee Machine simulation implemented in Java. The program allows users to interact with the coffee machine by performing actions such as buying coffee, refilling resources, checking remaining supplies, and taking the collected money.
 
